@@ -1,0 +1,15 @@
+article{
+    background-color: antiquewhite;
+    width: 500px;
+
+}
+article img{
+    max-width: 100%;
+}
+.cards-projeto{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+align-items: center;
+gap: 8px;
+}
